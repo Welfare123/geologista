@@ -1,2 +1,2 @@
-# geologista
-geologia 👌
+# Geologist
+Geologist Project
